@@ -1,10 +1,17 @@
 body { 
     background-color: blue;
     color: springgreen;
-    
+    margin: 0px;
 
 }
 
-header{ 
-border: solid 2px rgb42, green, blue);
+header{
+border: solid 2px rgb(42, 128,228);
+margin: 20px;
+}
+
+section {
+   background: rgb(red, green, blue);
+
+
 }
